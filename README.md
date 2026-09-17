@@ -179,11 +179,19 @@ I regularly practice Data Structures & Algorithms and competitive programming.
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub
 
-![Saumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saum7033&show_icons=true&hide_border=true)
+I actively work on backend projects and regularly push code, experiment with new technologies, and practice problem solving.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saum7033&layout=compact&hide_border=true)
+- 🚀 Java & Spring Boot backend development
+- 🔧 Microservices & REST APIs
+- 🗄️ PostgreSQL & SQL
+- 🔐 Spring Security, JWT & Keycloak
+- ⚙️ Docker & GitHub Actions
+- 🤖 GenAI & RAG exploration
+- 🧩 Data Structures & Algorithms
+
+👉 [View all my repositories](https://github.com/saum7033?tab=repositories)
 
 ---
 
