@@ -181,9 +181,9 @@ I regularly practice Data Structures & Algorithms and competitive programming.
 
 # 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saum7033\&show_icons=true\&hide_border=true)
+![Saumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saum7033&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saum7033\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saum7033&layout=compact&hide_border=true)
 
 ---
 
