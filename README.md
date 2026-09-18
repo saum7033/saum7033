@@ -6,7 +6,7 @@ I'm a **Computer Science graduate from NIT Durgapur** focused on backend develop
 
 I enjoy solving programming problems, understanding how backend systems work, and turning ideas into working applications.
 
-Currently, I'm strengthening my knowledge of **Spring Cloud, system design, application security, Docker, CI/CD, and GenAI/RAG applications**.
+Currently, I'm deepening my knowledge of **Advanced Java, Spring Boot, Microservices Architecture, Distributed Systems, System Design, Application Security, and GenAI/RAG applications**.
 
 ---
 
@@ -14,14 +14,39 @@ Currently, I'm strengthening my knowledge of **Spring Cloud, system design, appl
 
 * 🎓 B.Tech in Computer Science & Engineering — **NIT Durgapur**
 * ☕ Primary backend language — **Java**
-* 🌱 Currently focusing on **Spring Boot & Microservices**
-* 🔐 Interested in **authentication, authorization, RBAC & Keycloak**
-* 🗄️ Working with **PostgreSQL, MySQL & SQL**
-* ⚙️ Exploring **Docker, GitHub Actions & CI/CD**
-* 🤖 Learning **Generative AI, RAG & LLM applications**
-* 🧩 Regularly practicing **Data Structures & Algorithms**
-* 💼 Open to **SDE / Java Developer / Backend Developer opportunities**
+# 🔭 Currently Learning
 
+I'm continuously advancing my knowledge of Java backend engineering and modern software architecture.
+
+### ☕ Advanced Java
+
+- Object-Oriented Programming & Design Principles
+- Collections Framework
+- Multithreading & Concurrency
+- Exception Handling
+- Java 8+ Features
+- JVM Fundamentals
+- Streams & Generics
+
+### 🚀 Advanced Spring Boot
+
+- Spring Boot Architecture
+- Spring Security & Keycloak
+- REST API Design
+- Spring Data JPA & Hibernate
+- Transaction Management
+- Microservices Architecture
+- Spring Cloud & Service Discovery
+- Inter-Service Communication
+- API Gateway & Distributed Systems
+
+### 🏗️ Software Engineering
+
+- System Design
+- Database Design & Optimization
+- Docker & CI/CD
+- Testing & Integration Testing
+- GenAI & RAG Applications
 ---
 
 # 🛠️ Tech Stack
